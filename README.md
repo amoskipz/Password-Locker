@@ -2,7 +2,7 @@
 
 ## Author
 
-[Kiprotich Amos Koech](https://github.com/amoskipz/Password-Locker)
+[Kiprotich Amos Koech](https://amoskipz.github.io/Password-Locker/)
 
 ## Description
 
@@ -11,8 +11,7 @@ This project is an application used to store accounts credentials. You can creat
 ## Screenshot
 
 ## Live Page 
-https://github.com/amoskipz/Password-Locker
-
+https://amoskipz.github.io/Password-Locker/
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
