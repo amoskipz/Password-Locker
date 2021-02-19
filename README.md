@@ -10,6 +10,8 @@ This project is an application used to store accounts credentials. You can creat
 
 ## Screenshot
 
+![Alt text](https://github.com/amoskipz/Password-Locker/blob/master/images/password-locker.png?raw=true "Optional Title")
+
 ## Live Page 
 https://amoskipz.github.io/Password-Locker/
 
